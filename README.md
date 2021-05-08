@@ -3,7 +3,7 @@ Google's main page, you can use it for searches and everything else. Styled with
 
 ![GOOGLE DEVELOPERS](https://user-images.githubusercontent.com/45158663/117542820-d3522d00-b037-11eb-97b3-686c7d082b0b.PNG)
 
-Languages used 
+Languages used: <br>
 HTML,CSS,Javascript
 
 View: https://imsharukh1994.github.io/Google-clone/
