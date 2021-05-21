@@ -6,4 +6,4 @@ Google's main page, you can use it for searches and everything else. Styled with
 Languages used: <br>
 HTML,CSS,Javascript
 
-View: https://imsharukh1994.github.io/Google-clone/
+View: <a href="https://google-clone-ecru.vercel.app/">Google Clone</a>
